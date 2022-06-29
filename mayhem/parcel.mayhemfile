@@ -1,0 +1,6 @@
+project: parcel-css
+target: parcel-css
+
+cmds:
+  - cmd: /parcel_css @@
+  - cmd: /parcel_css --nesting @@
